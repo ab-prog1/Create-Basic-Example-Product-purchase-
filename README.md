@@ -2,4 +2,4 @@
 
 Create-Basic-Example-Product-purchase.
 
-react - redux
+react - redux - local storage
